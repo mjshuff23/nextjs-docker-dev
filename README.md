@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Docker Container:
+1. `docker-compose up` - Production
+2. `npm run dev:up` - Development
+
 First, run the development server:
 
 ```bash
